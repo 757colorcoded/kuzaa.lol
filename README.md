@@ -1,2 +1,2 @@
 # kuzaa.lol
-Repository for demonstrating security best practices.
+Repository for demonstrating all sorts of interesting things.
